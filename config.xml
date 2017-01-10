@@ -3,14 +3,14 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.vrindi.restaurantwave"
+        id = "com.webondemo.helloworld"
         version = "0.0.1"
         >
 
-  <name>RestaurantWave</name>
+  <name>HelloWorld</name>
 
   <description>
-    RestaurantWave | Online Food Ordering | Event Registration and Ticketing Made Easy
+    Hello World | Hello World Home Page | 911 Sauce | Online Food Ordering | Franchising | Merchandise
   </description>
 
   <author href="http://vrindi.com" email="support@vrindi.com">
